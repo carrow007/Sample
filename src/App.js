@@ -13,7 +13,6 @@ class App extends Component {
         <div className="body">
 
         <Widget />
-
         </div>
       </div>
     );
