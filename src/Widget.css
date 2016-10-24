@@ -1,0 +1,46 @@
+.modalbody {
+  text-align: center;
+  height: 300px;
+}
+
+.mainhead {
+  color: #660033;
+}
+
+
+.imageone {
+  display: inline-block;
+  background-image: url('http://www.gannett-cdn.com/-mm-/3c214b313c55a286ddc70dc4136ed06773e95afc/c=213-0-1067-854&r=x153&c=150x150/local/-/media/2016/03/17/TXNMGroup/LasCruces/635938280022224194-UberNew.jpg');
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+ }
+
+ .imagetwo {
+  display: inline-block;
+  background-image: url('http://www.talentzoo.com/beyond-madison-ave/images/blog_images_article/521ebd9c857af.png');
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+ }
+
+.imagethree {
+  display: inline-block;
+  background-image: url('http://www.neilyoung.com/newnytimes/starbuckslogo.png');
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+ }
+
+ .footerpara {
+  color: grey;
+ }
+
+ .button {
+  background-color: #660033;
+  color: white;
+ }
+
+.footer {
+  text-align: center;
+}
