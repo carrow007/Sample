@@ -11,10 +11,6 @@ class Widget extends Component {
   }
 }
 
-  showModal() {
-    this.setState({show: false});
-  }
-
   hideModal() {
     this.setState({show: false});
   }
